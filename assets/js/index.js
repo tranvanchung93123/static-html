@@ -13,8 +13,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     const dashboardMenuItem = document.querySelector('#dashboard-nav');
     const leaveMenuItem = document.querySelector('#leave-nav');
-    const dashboardSection = document.querySelector('.dashboard-section'); // Assuming this is the Dashboard section
-    const leaveRequestsSection = document.querySelector('.leave-section'); // Assuming this is the Leave Requests section
+    const dashboardSection = document.querySelector('.dashboard-section'); 
+    const leaveRequestsSection = document.querySelector('.leave-section');
 
     dashboardMenuItem.addEventListener('click', function() {
         dashboardSection.style.display = 'block';
