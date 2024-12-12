@@ -34,9 +34,8 @@ This web application provides a user interface for managing dashboard and leave 
 ## Setup
 
 1. Ensure you have a web server to host the HTML files.
-   ```
-3. Place the HTML, CSS, and JavaScript files in the appropriate directories.
-4. Open the `index.html` file in a web browser to view the application.
+2. Place the HTML, CSS, and JavaScript files in the appropriate directories.
+3. Open the `index.html` file in a web browser to view the application.
 
 ## Contributing
 
